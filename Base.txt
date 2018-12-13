@@ -1,0 +1,1 @@
+( Root ( Left_Child_1 ( Left_Child_Of_The_Left_Child ) ( Right_Child_Of_The_Left_Child ) ) ( Right_Child_1 ( Left_Child_Of_The_Right_Child ) ( Right_Child_Of_The_Right_Child ) ) ) 
